@@ -1,4 +1,4 @@
-OpenSSL_P12_Generator
+OpenSSL P12 Generator
 =====================
 
 Self-signing OpenSSL P12 Generator for your test suites.
